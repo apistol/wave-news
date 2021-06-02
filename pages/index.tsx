@@ -1,5 +1,7 @@
 export const config = { amp: true }
-import AmpImg from "../amp.d.ts"
+// import AmpImg from "../amp"
+
+// process.env.DB_USER
 
 export default function Home({ req, res, query}) {
 
